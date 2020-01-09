@@ -1,0 +1,1 @@
+File Name = Function13	;RMSE = 0.0392961	, optimum_mew = 32	 optimum_nu = 10,SD=0.506699

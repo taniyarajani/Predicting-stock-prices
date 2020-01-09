@@ -1,0 +1,4 @@
+File Name = Function1	;RMSE = 0.090624	, optimum_mew = 16	 optimum_nu = 10,SD=0.525225
+File Name = Function7	;RMSE = 0.0773132	, optimum_mew = 4	 optimum_nu = 100000,SD=0.515029
+File Name = Function13	;RMSE = 0.0392961	, optimum_mew = 32	 optimum_nu = 10,SD=0.506699
+File Name = gas_furnace2	;RMSE = 0.0203755	, optimum_mew = 0.5	 optimum_nu = 100,SD=0.214892

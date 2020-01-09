@@ -1,0 +1,1 @@
+file = Function13	,mew =       32	,nu =       10	,avgerror =  0.65241	
